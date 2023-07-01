@@ -1,0 +1,287 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 713,
+      "max": [
+        29.653223037719727,
+        29.653223037719727,
+        11.095871925354004
+      ],
+      "min": [
+        -29.653223037719727,
+        -29.653223037719727,
+        -7.035244941711426
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 8556,
+      "componentType": 5126,
+      "count": 713,
+      "max": [
+        1.0,
+        1.0,
+        0.9999963641166687
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.8320503234863281
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 713,
+      "max": [
+        0.9999713897705078,
+        0.9988915324211121,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9989591836929321,
+        -0.9999713897705078,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 713,
+      "max": [
+        0.9946789741516113,
+        0.9951170086860657
+      ],
+      "min": [
+        0.004883000161498785,
+        0.004883000161498785
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2808,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "dreamloveer (https://sketchfab.com/dreamloveer)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/stone-array-3d02b69773c543b49704a92e2053fe45",
+      "title": "Stone array"
+    },
+    "generator": "Sketchfab-12.63.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 11232,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5704,
+      "byteOffset": 11232,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 17112,
+      "byteOffset": 16936,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11408,
+      "byteOffset": 34048,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 45456,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_clearcoat"
+  ],
+  "images": [
+    {
+      "uri": "textures/initialShadingGroup_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/initialShadingGroup_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/initialShadingGroup_emissive.jpeg"
+    },
+    {
+      "uri": "textures/initialShadingGroup_normal.png"
+    },
+    {
+      "uri": "textures/initialShadingGroup_clearcoat.png"
+    },
+    {
+      "uri": "textures/initialShadingGroup_clearcoat_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 1.0,
+          "clearcoatNormalTexture": {
+            "index": 5
+          },
+          "clearcoatRoughnessFactor": 1.0,
+          "clearcoatRoughnessTexture": {
+            "index": 1
+          },
+          "clearcoatTexture": {
+            "index": 4
+          }
+        }
+      },
+      "name": "initialShadingGroup",
+      "normalTexture": {
+        "index": 3
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.0833333358168602,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.8503717628539684e-17,
+        -0.0833333358168602,
+        0.0,
+        0.0,
+        0.0833333358168602,
+        1.8503717628539684e-17,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "e13583780c604fb1b18a2dab02ad7dd5.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}

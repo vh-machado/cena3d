@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stone 01 - Low Poly
+* source:	https://sketchfab.com/3d-models/stone-01-low-poly-a549dfb2f9c442ec95e1c1d7b2493473
+* author:	José Baltazar (https://sketchfab.com/josebalta)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stone 01 - Low Poly" (https://sketchfab.com/3d-models/stone-01-low-poly-a549dfb2f9c442ec95e1c1d7b2493473) by José Baltazar (https://sketchfab.com/josebalta) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
