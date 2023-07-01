@@ -1,8 +1,12 @@
 # Trabalho avaliativo de Computação Gráfica
 Desenvolvimento de uma cena 3D com a biblioteca ThreeJS.
 
-Victor da Silva (202004940015)
-Vitória Rodrigues (202004940009)
+Tema: Treinamento jedi de Grogu num planeta distante
+- Victor da Silva (202004940015)
+- Vitória Rodrigues (202004940009)
+
+Link da apresentação: [Youtube](https://youtu.be/O9_8cVhVPcs)
+
 
 ## Orientações para execução local
 
