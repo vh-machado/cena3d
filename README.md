@@ -5,7 +5,7 @@ Tema: Treinamento jedi de Grogu num planeta distante
 - Victor da Silva (202004940015)
 - Vitória Rodrigues (202004940009)
 
-Link da apresentação: [Youtube](https://youtu.be/O9_8cVhVPcs)
+Link da apresentação: [Youtube](https://youtu.be/woA_RxEaZI8)
 
 
 ## Orientações para execução local
